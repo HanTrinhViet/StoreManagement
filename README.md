@@ -1,7 +1,7 @@
 # StoreManagement
 Nhóm 14 - Bài 14 - Trịnh Viết Hân(211 242 320) - Phan Đông Hải(211 211 579)
 
-                                               BÀI TẬP LỚN MÔN CẤU TRÚC DỮ LIỆU VÀ GIẢI THUẬT
+                                         BÀI TẬP LỚN MÔN CẤU TRÚC DỮ LIỆU VÀ GIẢI THUẬT
                                                       
 Giảng viên hướng dẫn : Thầy Nguyễn Việt Hưng chuyên máy tính<br />
 Đại học Giao Thông Vận Tải Hà Nội.  <br />                                                             
