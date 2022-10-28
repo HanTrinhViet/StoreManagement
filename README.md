@@ -7,7 +7,7 @@ Giảng viên hướng dẫn : Thầy Nguyễn Việt Hưng chuyên máy tính<b
 Đại học Giao Thông Vận Tải Hà Nội.  <br />                                                             
                                                                                                              
 -> NHÓM 14 - BÀI(ĐỀ) 14 :<br />
-  +) Trịnh Viết Hân_ => [(SBD) : (211 242 320)] => [(NHIỆM VỤ) : (Code và xử lí chương trình + viết báo cáo)].<br />
+  +) Trịnh Viết Hân => [(SBD) : (211 242 320)] => [(NHIỆM VỤ) : (Code và xử lí chương trình + viết báo cáo)].<br />
   +) Phan Đông Hải  => [(SBD) : (211 211 579)] => [(NHIỆM VỤ) : (Tạo dữ liệu và file)].<br /> 
 <br />
 -> CÁC FILE TEXT ĐỂ ĐỌC GHI DỮ LIỆU :<br />
