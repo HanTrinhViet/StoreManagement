@@ -1,7 +1,7 @@
 # StoreManagement
 Nhóm 14 - Bài 14 - Trịnh Viết Hân(211 242 320) - Phan Đông Hải(211 211 579)
 
-                                                 BÀI TẬP LỚN MÔN CẤU TRÚC DỮ LIỆU VÀ GIẢI THUẬT
+                          BÀI TẬP LỚN MÔN CẤU TRÚC DỮ LIỆU VÀ GIẢI THUẬT
                                                       
 Giảng viên hướng dẫn : Thầy Nguyễn Việt Hưng chuyên máy tính<br />
 Đại học Giao Thông Vận Tải Hà Nội.  <br />                                                             
@@ -23,5 +23,5 @@ Giảng viên hướng dẫn : Thầy Nguyễn Việt Hưng chuyên máy tính<b
   +) Bill.cpp : File chứa lớp(class) hóa đơn.<br />
 <br />
 -> NOTE :<br />
-     LÚC SỬ DỤNG THẦY NÊN CHO CON TRỎ CHUỘT VÀO CUỐI FILE BILL_IN.txt và ITEM_IN.txt ĐỂ CHƯỜNG TRÌNH HOẠT ĐỘNG BÌNH THƯỜNG KHÔNG LỖI Ạ ^^. <br />
+     LÚC SỬ DỤNG THẦY NÊN CHO CON TRỎ CHUỘT VÀO CUỐI FILE BILL_IN.txt và ITEM_IN.txt ĐỂ CHƯƠNG TRÌNH HOẠT ĐỘNG BÌNH THƯỜNG KHÔNG LỖI Ạ ^^. <br />
      EM CẢM ƠN Ạ.
