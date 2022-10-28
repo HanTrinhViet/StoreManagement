@@ -1,3 +1,12 @@
+                                                      BÀI TẬP LỚN MÔN CẤU TRÚC DỮ LIỆU VÀ GIẢI THUẬT
+                                                      
+Giảng viên hướng dẫn : Thầy Nguyễn Việt Hưng chuyên máy tính
+Đại học Giao Thông Vận Tải Hà Nội.                                                               
+                                                                                                                   
+-> NHÓM 14 - BÀI(ĐỀ) 14 :
+  +) Trịnh Viết Hân => [(SBD) : (211 242 320)] => [(NHIỆM VỤ) : (Code và xử lí chương trình + viết báo cáo)].
+  +) Phan Đông Hải  => [(SBD) : (211 211 579)] => [(NHIỆM VỤ) : (Tạo dữ liệu và file)]. 
+
 -> CÁC FILE TEXT ĐỂ ĐỌC GHI DỮ LIỆU :
   +) BILL_IN      : File danh sách mặt hàng để đọc vào chương trình.
   +) BILL_OUT     : File sau khi ghi danh sách mặt hàng ra file.
